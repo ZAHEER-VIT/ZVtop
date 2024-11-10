@@ -1,0 +1,274 @@
+h1{
+    text-align:center;
+color:rgb(9, 92, 186);
+font-family:sans-serif;
+font-weight:200px;
+justify-content: center;
+
+}
+
+p{padding-left: 400px;
+
+    font-weight:bolder;
+    text-overflow:ellipsis;
+    width:800px;
+
+}
+
+
+ul {
+    list-style-image: url('C:\Users\z4pro\Downloads\vtop\images\student-l.png');
+    }
+
+
+.student{
+    z-index:-1px;
+    display:flex;
+    width:250px;
+    background-color:white;
+    border-top:5px solid rgb(12, 87, 227);
+    display:flex;
+padding:20px;
+margin:30px;
+border-radius:10px;
+filter:drop-shadow(4px 4px 10px grey);
+
+}
+header h1{
+    z-index:-1px;
+}
+
+header main {
+    display:flex;
+    flex-wrap:wrap;
+}
+header main p{
+    z-index:-1px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+.student table{
+    background-size: contain;
+}
+.employee{
+    z-index:-1px;
+    display:flex;
+    width:250px;
+    background-color:white;
+    border-top:5px solid goldenrod;
+    display:flex;
+padding:20px;
+margin:30px;
+filter:drop-shadow(4px 4px 10px grey);
+border-radius:10px;
+}
+
+.student h2{
+    color:rgb(12, 87, 227);
+}
+.employee h2{
+    color:goldenrod;
+}
+.parent h2{
+    color:green;
+}
+.alumni h2{
+    color:aqua;
+}
+
+#button2{
+    height:40px;
+}
+#button1:hover{
+    filter:brightness(0.8);
+    cursor:pointer;
+}
+#button2:hover{
+    filter:brightness(0.8);
+    cursor:pointer;
+}
+#button3:hover{
+    filter:brightness(0.8);
+    cursor:pointer;
+}
+#button4:hover{
+    filter:brightness(0.8);
+    cursor:pointer;
+}
+#button1{
+    height:40px;
+}
+#button3{
+    height:40px;
+}
+#button4{
+    height:40px;
+}
+table{
+    background-size: contain;
+}
+.spotlight{
+    display:flex;
+}
+.parent{
+    z-index:-1px;
+    display:flex;
+    width:250px;
+    background-color:white;
+    border-top:5px solid green;
+    display:flex;
+    border-radius:10px;
+padding:20px;
+margin:30px;
+filter:drop-shadow(4px 4px 10px grey);
+}
+
+.alumni{
+    z-index:-1px;
+    display:flex;
+    width:250px;
+    border-radius:10px;
+    background-color:white;
+    border-top:5px solid aqua;
+    display:flex;
+padding:20px;
+margin:30px;
+filter:drop-shadow(4px 4px 10px grey);
+}
+
+#student{
+    background-size:contain;
+
+}
+
+.options{
+    display:flex;
+    flex-wrap:wrap;
+    padding:10px;
+    margin:30px;
+
+}
+
+
+.spotlight-install{
+    height:200px;
+    width:700px;
+    box-shadow: 30x 4px 8px grey;
+    display:inline;
+    border:2px solid black;
+}
+
+
+
+ul{
+    color:black;
+}
+
+.row{
+    margin:5px;
+background-color:rgba(206, 81, 102, 0.4);
+background-size:contain;
+width:650px;
+height:30px;
+text-align:left ;
+}
+
+.spotlight{
+    width:665px;
+    border-radius:10px;
+    box-shadow:3px 6px 20px grey;
+    height:300px;
+    margin:50px;
+    border-top:3px solid rgb(174, 51, 51);
+    color:rgb(155, 29, 73);
+    font-family:sans-serif;
+    background-size:contain;
+    flex-wrap:wrap;
+}
+#spotlight{
+    display:flex;
+}
+.row td{
+    margin:5px;
+    padding:4px;
+
+}
+.menu{
+    text-align:right;
+    background-size:contain;
+}
+.h{color:white;}
+hr{
+    width:500px;
+    padding-left:0px;
+}
+.row table ul{
+    text-decoration:underline;
+    list-style-image: url("C:\Users\z4pro\Downloads\vtop\images\list.png");
+}
+
+.install td img{
+border-radius:5px;
+
+}
+.install{
+    flex-wrap:wrap;
+}
+.install td{
+    font-weight:bolder;
+    font-family:sans-serif;
+    color:rgb(8, 50, 148);
+    border-radius:10px;
+}
+
+.menu:hover{
+    color:rgb(7, 194, 240);
+}
+table ul{
+     text-decoration: underline;
+}
+.apples{
+    background-size: contain;
+    height:70px;
+    width:250px;
+}
+.gp{
+    background-size: contain;
+    height:70px;
+    width:250px;
+}
+
+.apples:hover{
+    background-size: contain;
+    height:70px;
+    width:250px;
+    filter:brightness(0.8);
+    cursor:pointer;
+}
+.gp:hover{
+    background-size: contain;
+    height:70px;
+    width:250px;
+    filter:brightness(0.8);
+    cursor:pointer;
+}
+
+footer img{
+position:relative;
+bottom:0px;
+height:30px;
+width:100%;
+}
+.d{
+    width:100%;
+}
+.devoloper{
+    width:100%;
+    height:40px;
+    background:linear-gradient(to right,rgba(5, 112, 243, 1.0),rgb(77, 195, 241),rgba(5, 112, 243, 1.0));
+}
+.devoloper h1{
+    font-family: sans-serif;
+
+}
